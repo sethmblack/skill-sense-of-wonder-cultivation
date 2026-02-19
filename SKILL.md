@@ -4,7 +4,7 @@ description: Cultivate and restore the capacity for awe at natural or complex ph
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.4942
+  version: 1.0.4943
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - sense-of-wonder-cultivation
